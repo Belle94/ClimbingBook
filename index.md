@@ -17,9 +17,9 @@ Le Mie Ripetute
 14. Cacciavillani, Pitra di Bismantova
 15. Tranquillo e Placido, Monte Baffelan, 
 16. la via Emme..le, torre Emmele.
-17. [[Pilastro Montagna]], Pania Secca.
-18. [[Detassis vidi]], Corna Rossa, Brenta.
-19. [[Diedro Manolo]], Pian della Paia - Dain, Valle del Sarca.
+17. [Pilastro Montagna](https://belle94.github.io/ClimbingBook/Pilastro-Montagna), Pania Secca.
+18. [Detassis-Vidi](https://belle94.github.io/ClimbingBook/Detassis-Vidi), Corna Rossa, Brenta.
+19. [Diedro Manolo](https://belle94.github.io/ClimbingBook/Diedro-Manolo), Pian della Paia - Dain, Valle del Sarca.
 20. Selene, Parete di San Paolo, Valle del Sarca.
 21. Elios, Parete di San Paolo, Valle del Sarca.
 22. Essusiai, Coste dell'Anglone, Valle del Sarca.
