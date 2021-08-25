@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Belle94/ClimbingBook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Belle94/ClimbingBook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Le Mie Ripetute
+===
+00. via Anna, Pietra di Bismantova
+01. Zuffa Ruggero, Pitra di Bismantova
+02. Il Muro dei grilli, Pitra di Bismantova
+03. Italia 90, Pitra di Bismantova
+04. Cocaine, Pitra di Bismantova
+05. Diedro UISP, Pitra di Bismantova
+06. Nino Marchi, Pitra di Bismantova
+07. Evitando il frio, Castel presina, monte cimo.
+08. Zuffa 70, Pitra di Bismantova
+09. Sinergie, Pitra di Bismantova
+10. Oppio, Pitra di Bismantova
+11. via Maria, Pitra di Bismantova
+12. Zuffa stagni, variante quelli della notte, Pitra di Bismantova
+13. Pincelli, variante riccioli d'oro, Pitra di Bismantova
+14. Cacciavillani, Pitra di Bismantova
+15. Tranquillo e Placido, Monte Baffelan, 
+16. la via Emme..le, torre Emmele.
+17. [[Pilastro Montagna]], Pania Secca.
+18. [[Detassis vidi]], Corna Rossa, Brenta.
+19. [[Diedro Manolo]], Pian della Paia - Dain, Valle del Sarca.
+20. Selene, Parete di San Paolo, Valle del Sarca.
+21. Elios, Parete di San Paolo, Valle del Sarca.
+22. Essusiai, Coste dell'Anglone, Valle del Sarca.
+23. Kasnapoff, Seconda torre del sella, Sella.
+24. Schubert, piz ciavazes, Sella.
+25. UnKnown, Sassorosso, Garfagnana, 0 protezioni, completamente trad.
+26. Zuffa-Lenzi, Pietra di Bismantova
+27. Ultimo Volo dell’Aquila
+Pania di Corfino, Sassorosso
+28. Oppio-Colnaghi, pizzo d'uccello, apuane.
