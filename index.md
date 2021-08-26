@@ -21,7 +21,7 @@ Le Mie Ripetute
 18. [Detassis-Vidi](https://belle94.github.io/ClimbingBook/Detassis-Vidi), Corna Rossa, Brenta.
 19. [Diedro Manolo](https://belle94.github.io/ClimbingBook/Diedro-Manolo), Pian della Paia - Dain, Valle del Sarca.
 20. Selene, Parete di San Paolo, Valle del Sarca.
-21. Elios, Parete di San Paolo, Valle del Sarca.
+21. [Elios](https://belle94.github.io/ClimbingBook/Elios), Parete di San Paolo, Valle del Sarca.
 22. Essusiai, Coste dell'Anglone, Valle del Sarca.
 23. Kasnapoff, Seconda torre del sella, Sella.
 24. Schubert, piz ciavazes, Sella.
