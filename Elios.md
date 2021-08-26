@@ -59,8 +59,8 @@ Abbiamo preso na caterba d’acqua dal quinto tiro ma noi imperterriti abbiamo c
 
 |                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
-| [Attacco](https://bit.ly/2UQq3jL)   |    |   [Foto di vetta](https://bit.ly/38dNjLJ)  | 
-| ![Attacco](https://bit.ly/2UQq3jL)   |    |  ![Foto di vetta](https://bit.ly/38fI2mF)  |
+| [Attacco](https://bit.ly/3gCFsvD)   |    |   [Foto di vetta](https://bit.ly/38dNjLJ)  | 
+| ![Attacco](https://bit.ly/38iuU02)   |    |  ![Foto di vetta](https://bit.ly/38fI2mF)  |
 
 
 ### External links
