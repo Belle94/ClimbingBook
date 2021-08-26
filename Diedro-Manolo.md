@@ -3,7 +3,6 @@ Diedro Manolo
 
 ### Tabella riassuntiva
 
-|  	                            | 	  	                    |   				        | 	  		            | 
 |-------------------------------|-------------------------- |---------------------------|-----------------------|
 |**Prima ascensione** 		    | M. Zanolla, Groaz, Furlani | **Anno**                 |   1978                |
 |**Metri Climb**		        |	300m	                | **Altitudine** 		    |  ~ 650m punta	        |       
@@ -73,7 +72,6 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 
 ### Photos
 
-|  	        foto                |  foto	                    | foto			                | 	  	 
 |:-------------------------------|:--------------------------|:---------------------------|
 |[Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  | [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |     [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)           |
 
