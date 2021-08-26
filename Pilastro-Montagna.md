@@ -65,8 +65,6 @@ NDA, qualche Friends (fino a 2 della BlackDiamond).
 
 ### Considerazioni Generali
 
-### Photos
-
 ### External links
 - https://www.redclimber.it/relazioni/arrampicata/arrampicata-alpi-apuane/pania-secca-pilastro-montagna/
 - http://www.alpinistidellambrusco.org/2015/11/pania-secca-pilastro-montagna.html
