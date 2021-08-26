@@ -73,6 +73,7 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 
 ### Photos
 ![Attacco alla via, primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg | width=350)
+<img src="https://i.imgur.com/ZuP8EEP.jpg" width="250" height="250">
 ![Tetto. Passo chiave](https://i.imgur.com/hRkhwUc.jpeg =350x350)
 
 ### External links
