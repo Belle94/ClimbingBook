@@ -72,8 +72,11 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 
 ### Photos
 
+|                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
-|[Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  | [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |     [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)           |
+| [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg   |    [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg |   [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg  | 
+| ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg   |   ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg |  ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg  | 
+
 
 ### External links
 - [redclimber](https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/
