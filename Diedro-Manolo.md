@@ -72,9 +72,8 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 (l'ho tirato il cordone mannaggaia). Da tornarci!
 
 ### Photos
-![Attacco alla via, primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg | width=350)
-<img src="https://i.imgur.com/ZuP8EEP.jpg" width="250" height="250">
-![Tetto. Passo chiave](https://i.imgur.com/hRkhwUc.jpeg =350x350)
+<img src="https://i.imgur.com/ZuP8EEP.jpg" width="450" height="450">
+<img src="https://i.imgur.com/hRkhwUc.jpeg" width="450" height="450">
 
 ### External links
 - https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/
