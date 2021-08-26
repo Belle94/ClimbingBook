@@ -27,6 +27,5 @@ Le Mie Ripetute
 24. Schubert, piz ciavazes, Sella.
 25. UnKnown, Sassorosso, Garfagnana, 0 protezioni, completamente trad.
 26. Zuffa-Lenzi, Pietra di Bismantova
-27. Ultimo Volo dell’Aquila
-Pania di Corfino, Sassorosso
-28. Oppio-Colnaghi, pizzo d'uccello, apuane.
+27. Ultimo Volo dell’Aquila, Sassorosso, Garfagnana.
+28. Oppio-Colnaghi, pizzo d'uccello, Apuane.
