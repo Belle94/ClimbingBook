@@ -49,6 +49,11 @@ NDA, pochi Friends (max 2 BD), qualche nut, cordini.
 ### Considerazioni Generali
 
 ### Photos
+|                                |                           |                            |
+|:-------------------------------|:--------------------------|:---------------------------|
+| [Attacco](https://bit.ly/38fKLwp)   |    |   [Ultimo tiro](https://bit.ly/3kqR1XY)  | 
+| ![Attacco](https://bit.ly/3sQCOat)   |    |  ![Ultimo tiro](https://bit.ly/3kqR1XY)  |
+
 
 ### External links
 - https://www.sassbaloss.com/pagine/uscite/cornarossa/cornarossa.htm
