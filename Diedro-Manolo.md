@@ -74,8 +74,8 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 
 |                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
-| [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |    [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg) |   [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  | 
-| ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |   ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg) |  ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  | 
+| [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |    [Tetto, Tiro chiave](https://i.imgur.com/hRkhwUc.jpeg) |   [Foto di vetta](https://bit.ly/38cVCHl)  | 
+| ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |   ![Tetto, Tiro chiave](https://i.imgur.com/hRkhwUc.jpeg) |  ![Foto di vetta](https://bit.ly/38cVCHl)  | 
 
 
 ### External links
