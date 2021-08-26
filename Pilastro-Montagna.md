@@ -64,6 +64,7 @@ Noi abbiamo parcheggiato [qui](https://goo.gl/maps/afBNvxk9zoARwM9F6) a bordo de
 NDA, qualche Friends (fino a 2 della BlackDiamond).
 
 ### Considerazioni Generali
+Raggiungere l'attacco è stato il tiro più duro, quando siamo arrivati alla prima sosta, dove attacca la via, ci siamo accorti che alla nostra sinistra (faccia a monte) si trovava un cordone che avrebbe facilitato di molto la scaripinata. Bella esperienza, e ignorate gli spit.
 
 ### External links
 - https://www.redclimber.it/relazioni/arrampicata/arrampicata-alpi-apuane/pania-secca-pilastro-montagna/
