@@ -79,6 +79,6 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 
 
 ### External links
-- [redclimber](https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/
-- [sassbaloss]https://www.sassbaloss.com/pagine/uscite/pianpaia1/pianpaia1.htm
+- [redclimber](https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/)
+- [sassbaloss](https://www.sassbaloss.com/pagine/uscite/pianpaia1/pianpaia1.htm)
 - [https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/](http://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaCesareLevis/385/)
