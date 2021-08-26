@@ -49,6 +49,7 @@ NDA, pochi Friends (max 2 BD), qualche nut, cordini.
 ### Considerazioni Generali
 
 ### Photos
+
 |                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
 | [Attacco](https://bit.ly/38fKLwp)   |    |   [Ultimo tiro](https://bit.ly/3kqR1XY)  | 
