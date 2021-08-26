@@ -72,7 +72,7 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 (l'ho tirato il cordone mannaggaia). Da tornarci!
 
 ### Photos
-![Attacco alla via, primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg =350x350)
+![Attacco alla via, primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg | width=350)
 ![Tetto. Passo chiave](https://i.imgur.com/hRkhwUc.jpeg =350x350)
 
 ### External links
