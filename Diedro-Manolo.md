@@ -72,21 +72,10 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 (l'ho tirato il cordone mannaggaia). Da tornarci!
 
 ### Photos
-|  	                                                              | 	  	                                     | 
-|-----------------------------------------------------------------|------------------------------------------- |
-| ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg) | ![Tetto, Tiro chiave](https://i.imgur.com/hRkhwUc.jpeg)  |
-| [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  |	[Tetto, Tiro chiave](https://i.imgur.com/hRkhwUc.jpeg)  |
-
-|  	                            | 	  	                    |   				        | 	  		            | 
-|-------------------------------|-------------------------- |---------------------------|-----------------------|
-|**Prima ascensione** 		    | M. Zanolla, Groaz, Furlani | **Anno**                 |   1978                |
-|**Metri Climb**		        |	300m	                | **Altitudine** 		    |  ~ 650m punta	        |       
-|**Tempo Climb**		        |   ~ 6h                    | **Esposizione**		    |  S           	        |
-|**Tempo Attacco**		        |	~ 0.30h                 | **Tempo Discesa**		    | ~ 1.10h               |
-|**Diff. Globale**              | TD+       	            | **Num. Soste**            | 7		      	        |
-|**Difficoltà**		            | V+, pp. VI+      	        | **Roccia**		        | Calcare	            |
-|**Chiodatura**		            | Soste su chiodi           | **Data rip.**			    | Mar. 03/04/2021       |
-|**Giudizio personale**         | ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)                   |                           |    ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)                   |
+|  	                            | 	  	                    |   				                | 	  	 
+|-------------------------------|-------------------------- |---------------------------|
+|![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  |    ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |     ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)            |
+|[Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  | [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |     [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)           |
 
 ### External links
 - https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/
