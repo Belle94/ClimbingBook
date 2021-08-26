@@ -75,9 +75,8 @@ Bellissimo! molti affermano che la roccia sia unta, e un pochino lo è in effett
 |  	        foto                |  foto	                    | foto			                | 	  	 
 |-------------------------------|-------------------------- |---------------------------|
 |[Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  | [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |     [Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)           |
-|![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)  |    ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)   |     ![Attacco, Primo tiro serio](https://i.imgur.com/ZuP8EEP.jpg)            |
 
 ### External links
-- https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/
-- https://www.sassbaloss.com/pagine/uscite/pianpaia1/pianpaia1.htm
-- http://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaCesareLevis/385/
+- [redclimber](https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/
+- [sassbaloss]https://www.sassbaloss.com/pagine/uscite/pianpaia1/pianpaia1.htm
+- [https://www.redclimber.it/relazioni/arrampicata/arrampicata-prealpi/arrampicata-valle-del-sarca/pian-della-paia-dain-diedro-manolo/](http://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaCesareLevis/385/)
