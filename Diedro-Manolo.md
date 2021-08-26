@@ -9,9 +9,9 @@ Diedro Manolo
 |**Metri Climb**		        |	300m	                | **Altitudine** 		    |  ~ 650m punta	        |       
 |**Tempo Climb**		        |   ~ 6h                    | **Esposizione**		    |  S           	        |
 |**Tempo Attacco**		        |	~ 0.30h                 | **Tempo Discesa**		    | ~ 1.10h               |
-|**Diff. Globale**              | TD+       	            | **Num. Soste**            | 7		      	        |
-|**Difficoltà**		            | V+, pp. VI+      	        | **Roccia**		        | Calcare	            |
-|**Chiodatura**		            | Soste su chiodi           | **Data rip.**			    | Mar. 03/04/2021       |
+|**Diff. Globale**              | TD       	            | **Num. Soste**            | 7		      	        |
+|**Difficoltà**		            | V+, pp. VI+ / A0    	        | **Roccia**		        | Calcare	            |
+|**Chiodatura**		            | Soste su chiodi           | **Data rip.**			    | Mar. 03/08/2021       |
 |**Giudizio personale**         | 9/10                      |                           |                       |
 
 
