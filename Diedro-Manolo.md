@@ -2,7 +2,7 @@ Diedro Manolo
 ===
 
 ### Tabella riassuntiva
-
+|                                 |                            |                            |                        |
 |:-------------------------------|:-------------------------- |:---------------------------|:-----------------------|
 |**Prima ascensione** 		    | M. Zanolla, Groaz, Furlani | **Anno**                 |   1978                |
 |**Metri Climb**		        |	300m	                | **Altitudine** 		    |  ~ 650m punta	        |       
