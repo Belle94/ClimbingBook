@@ -69,7 +69,7 @@ Utilizzammo 2 relazioni per la salita, ad ogni sosta le rileggevamo pedissequame
 
 |                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
-| [La parete alle 5](https://bit.ly/38jRdCM)   |    [Attacco](https://bit.ly/3znz4Ql) |   [Foto di vetta](https://cutt.ly/xWo1m0z)  | 
-| ![foto di vetta](https://bit.ly/38jRdCM)   |   ![Attaco](https://bit.ly/3znz4Ql) |  ![Foto di vetta](https://cutt.ly/xWo1m0z)  | 
+| [La parete alle 5](https://bit.ly/38jRdCM)   |    [Attacco](https://bit.ly/3znz4Ql) |   [Foto di vetta](https://cutt.ly/mWo1Dt9)  | 
+| ![foto di vetta](https://bit.ly/38jRdCM)   |   ![Attaco](https://bit.ly/3znz4Ql) |  ![Foto di vetta](https://cutt.ly/mWo1Dt9)  | 
 
 ### External links
