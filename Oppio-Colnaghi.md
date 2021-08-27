@@ -21,10 +21,10 @@ Nord pizzo d'uccello,  Alpi Apuane.
 ### Descrizione
 La via segue una linea logica e facile di camini, se avete dubbi durante la salita ricordatevi di scegliere il percorso più facile e logico:
 se è difficile siete fuori via, se non è un camino o una rampa, siete fuori via. Ci sono diverse soste intermedie, noi descriviamo quelle utilizzate. 
-Le soste sono spesso in prossimità del tiro sucessivo, alla base di un camino, diedro, rampa. i primi tiri i più facili. Enjoy Climbing.
-
-La via è stata recentemente richiodata, sono stati tagliati tutti gli spit presenti ed ora è interamente a chiodi (vedi data di rip.)
-
+Le soste sono spesso in prossimità del tiro sucessivo, alla base di un camino, di un diedro o di una rampa.\
+I primi tiri sono i più facili.\
+La via è stata recentemente richiodata, sono stati tagliati tutti gli spit presenti ed ora è interamente a chiodi (vedi data di rip.)\
+Enjoy Climbing
 
 Tiri: 
 1. Aggirare subito lo spigolo sulla destra (1 chiodo) e salire per terreno facile, piegare a sinistra facendo un paio di passi su una placchetta gialla e salire fino alla sosta. 2 chiodi di sosta, 35 metri. pp. V, IV.
