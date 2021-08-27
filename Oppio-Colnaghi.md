@@ -11,7 +11,7 @@ Oppio Colnaghi - Pizzo d'uccello.
 |**Tempo Attacco**		        |	~ 1.40h                 | **Tempo Discesa**		    | ~ 1.30h               |
 |**Diff. Globale**              | TD	            | **Num. Soste**            |		    21  	        |
 |**Difficoltà**		            | V, V+      	        | **Roccia**		        |    marmo  		            |
-|**Chiodatura**		            |        chiodi        	        | **Data rip.**			    | lun. 22/04/2021       |
+|**Chiodatura**		            |        chiodi        	        | **Data rip.**			    | dom. 22/04/2021       |
 |**Giudizio personale**         |    9.5/10                 |                           |                       |
 
 
@@ -69,7 +69,7 @@ Utilizzammo 2 relazioni per la salita, ad ogni sosta le rileggevamo pedissequame
 
 |                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
-| [Attacco, Primo tiro serio](https://....)   |    [Tetto, Tiro chiave](https://...) |   [Foto di vetta](https://...)  | 
-| ![Attacco, Primo tiro serio](https://...)   |   ![Tetto, Tiro chiave](https://...) |  ![Foto di vetta](https://...)  | 
+| [La parete alle 5](https://bit.ly/38jRdCM)   |    [Attacco](https://bit.ly/3znz4Ql) |   [Foto di vetta](https://bit.ly/3mzFOXP)  | 
+| ![foto di vetta](https://bit.ly/38jRdCM)   |   ![Attaco](https://bit.ly/3znz4Ql) |  ![Foto di vetta](https://bit.ly/3mzFOXP)  | 
 
 ### External links
