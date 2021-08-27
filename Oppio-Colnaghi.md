@@ -52,8 +52,8 @@ Noi abbiamo parcheggiato [qui](https://g.page/rifugiodonegani?share) al rif. Gui
 Si scende a piedi lungo il tracciato ben segnato, sentiero n. 37, in direzione delle cave di marmo di Orto di donna e del rifugio Donegani.
 
 ### Equipaggiamento
-NDA, Friends una serie fino al 3 bd (molto utili friends medio grandi).\\
-Chiodi e martello non servono per la via.\\
+NDA, Friends una serie fino al 3 bd (molto utili friends medio grandi). \\ 
+Chiodi e martello non servono per la via. \\ 
 Qualche cordino in più per collegare chiodi di sosta un po' distanti tra loro.
 
 ### Considerazioni Generali
