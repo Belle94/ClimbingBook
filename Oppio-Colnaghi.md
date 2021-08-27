@@ -9,7 +9,7 @@ Oppio Colnaghi - Pizzo d'uccello.
 |**Metri Climb**		        |	820m	                | **Altitudine** 		    | 1781m punta	        |       
 |**Tempo Climb**		        |    7.3h                   | **Esposizione**		    |   Nord           	        |
 |**Tempo Attacco**		        |	~ 1.40h                 | **Tempo Discesa**		    | ~ 1.30h               |
-|**Diff. Globale**              | TD	            | **Num. Soste**            |		    21  	        |
+|**Diff. Globale**              | TD	            | **Num. Soste**            |		    19 (variabile)  	        |
 |**Difficoltà**		            | V, V+      	        | **Roccia**		        |    marmo  		            |
 |**Chiodatura**		            |        chiodi        	        | **Data rip.**			    | dom. 22/04/2021       |
 |**Giudizio personale**         |    9.5/10                 |                           |                       |
