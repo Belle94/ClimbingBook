@@ -68,8 +68,8 @@ Qualche cordino in più per collegare chiodi di sosta un po' distanti tra loro.
 
 ### Considerazioni Generali
 Abbiamo attacato la via di domenica, eravamo i primi e dietro di noi subito un'altra cordata, mentre feci il primo tiro altre due cordate sotto si misero in fila. 
-Era la mia prima via così lunga, volevo e dovevo andare veloce, ma era anche importante non sbagliare strada dalla foga della salita e avere 3 cordate dietro non mi rendeva un gran ché sereno, per fortuna dopo i primi quattro tiri avevamo già distaccato di molto la seconda cordata. 
-Utilizzammo 2 relazioni per la salita, ad ogni sosta le rileggevamo pedissequamente, quasi a livello maniacale e così arrivammo in cima in 7 ore e mezza, primi della giornata, senza sbagliare o farci superare e questo fu sicuramente quello che mi diede soddisfazione in quella giornata, più della conquiesta della vetta in se.
+Era la mia prima via così lunga, volevo e dovevo andare veloce, ma era anche importante non sbagliare strada dalla foga ed avere 3 cordate dietro di certo non mi rese un gran ché sereno, per fortuna dopo i primi tiri avevamo già distaccato di molto la seconda cordata.\ 
+Utilizzammo 2 relazioni per la salita, ad ogni sosta le rileggevamo pedissequamente, quasi a livello maniacale, così arrivammo in cima in 7 ore e mezza, primi della giornata, senza sbagliare o farci superare, e questo, fu sicuramente quello che mi diede più soddisfazione in quella giornata, più della conquiesta della vetta in se.
 
 ### Photos
 
