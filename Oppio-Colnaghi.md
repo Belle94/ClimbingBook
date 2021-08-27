@@ -76,7 +76,7 @@ Utilizzammo 2 relazioni per la salita, ad ogni sosta le rileggevamo pedissequame
 |                                |                           |                            |
 |:-------------------------------|:--------------------------|:---------------------------|
 | [La parete alle 5](https://bit.ly/38jRdCM)   |    [Attacco](https://bit.ly/3znz4Ql) |   [Foto di vetta](https://cutt.ly/mWo1Dt9)  | 
-| ![foto di vetta](https://bit.ly/38jRdCM)   |   ![Attaco](https://bit.ly/3znz4Ql) |  ![Foto di vetta](https://cutt.ly/mWo1Dt9)  | 
+| ![La parete alle 5](https://tinyurl.com/y5bta6uk)   |   ![Attaco](https://bit.ly/3znz4Ql) |  ![Foto di vetta](https://cutt.ly/mWo1Dt9)  | 
 
 ### External links
 - [vie lunghe finale](https://www.vielunghefinale.com/pizzo-duccello-via-oppio-colnaghi/)
