@@ -28,4 +28,4 @@ Le Mie Ripetute
 25. UnKnown, Sassorosso, Garfagnana, 0 protezioni, completamente trad.
 26. Zuffa-Lenzi, Pietra di Bismantova
 27. Ultimo Volo dell’Aquila, Sassorosso, Garfagnana.
-28. Oppio-Colnaghi, pizzo d'uccello, Apuane.
+28. [Oppio-Colnaghi](https://github.com/Belle94/ClimbingBook/blob/gh-pages/Oppio-Colnaghi.md), pizzo d'uccello, Apuane.
