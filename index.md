@@ -29,4 +29,4 @@ Le Mie Ripetute
 26. Zuffa-Lenzi, Pietra di Bismantova
 27. Ultimo Volo dell’Aquila, Sassorosso, Garfagnana.
 28. [Oppio-Colnaghi](https://belle94.github.io/ClimbingBook/Oppio-Colnaghi), pizzo d'uccello, Apuane.
-29. le Nebbie di Avaloon, Tessari, Verona
+29. le Nebbie di Avaloon, Bastionata Tessari, Verona.
