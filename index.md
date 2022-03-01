@@ -31,3 +31,4 @@ Le Mie Ripetute
 28. [Oppio-Colnaghi](https://belle94.github.io/ClimbingBook/Oppio-Colnaghi), pizzo d'uccello, Apuane.
 29. le Nebbie di Avaloon, Bastionata Tessari, Verona.
 30. Nataraj, Valle del Sarca.
+31. Insabilità emotive, Castel presina, monte cimo.
