@@ -32,7 +32,7 @@ Le Mie Ripetute
 29. le Nebbie di Avaloon, Bastionata Tessari, Verona.
 30. Nataraj, Valle del Sarca.
 31. Insabilità emotive, Castel presina, monte cimo.
-32. Spigolo bellavista
-33. Via Solda 
+32. Spigolo bellavista, pian delle fugazze
+33. via Spigolo Solda, pian delle fugazze
 34. Placca delle Lumache
 35. Pilastro stenghel
