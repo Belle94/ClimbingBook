@@ -32,7 +32,8 @@ Le Mie Ripetute
 29. le Nebbie di Avaloon, Bastionata Tessari, Verona.
 30. Nataraj, Valle del Sarca.
 31. Insabilità emotive, Castel presina, monte cimo.
-32. Spigolo bellavista, pian delle fugazze
-33. via Spigolo Solda, pian delle fugazze
-34. Placca delle Lumache
-35. Pilastro stenghel
+32. Le Ragazze di Osaka, Pietra di Bismantova.
+33. Spigolo bellavista, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto
+34. Spigolo Solda, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto
+35. Placca delle Lumache, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto. (with mr.Sergio Martini!)
+36. Pilastro Stenghel, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto. (with mr.Sergio Martini!)
