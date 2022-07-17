@@ -37,4 +37,5 @@ Le Mie Ripetute
 34. Spigolo Solda, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto
 35. Placca delle Lumache, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto. (with mr.Sergio Martini!)
 36. Pilastro Stenghel, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto. (with mr.Sergio Martini!)
-37. [Claudia](https://belle94.github.io/ClimbingBook/Claudia-croda-da-lago), Croda da lago, Cortina.
+37. [Claudia](https://belle94.github.io/ClimbingBook/Claudia-croda-da-lago), Croda da lago, Belluno.
+38. Fessura Dimai, Grande torre, 5 torri, Belluno.
