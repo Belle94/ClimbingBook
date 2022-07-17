@@ -1,4 +1,4 @@
-Claudia
+via Claudia - Croda da Lago
 ===
 
 ### Tabella riassuntiva
