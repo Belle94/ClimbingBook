@@ -11,7 +11,7 @@ via Claudia - Croda da Lago
 |**Tempo Attacco**		        |	~ 2.10h                 | **Tempo Discesa**		    | ~ 2.00h  (no calate)              |
 |**Diff. Globale**              | F	            | **Num. Soste**            |		  8    	        |
 |**Difficoltà**		            | 6a, A0     	        | **Roccia**		        |      Calcare		            |
-|**Chiodatura**		            |          ottima a fix        	        | **Data rip.**			    | lun. 16/07/2022       |
+|**Chiodatura**		            |          ottima a fix        	        | **Data rip.**			    | Sab. 16/07/2022       |
 |**Giudizio personale**         |    6.0/10                 |                           |                       |
 
 
