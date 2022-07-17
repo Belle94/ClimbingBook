@@ -16,7 +16,7 @@ via Claudia - Croda da Lago
 
 
 ### Posizione
-Croda da Lago
+Croda da Lago - Belluno
 
 ### Descrizione
 I tiri sono facilmente leggibili e la strada la si trova facilmente di spit in spit. 
