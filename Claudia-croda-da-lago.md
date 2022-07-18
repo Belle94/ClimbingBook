@@ -9,7 +9,7 @@ via Claudia - Croda da Lago
 |**Metri Climb**		        |	 ~ 200m	                | **Altitudine** 		    | ~ 2500mt          | 
 |**Tempo Climb**		        |   ~ 5h                   | **Esposizione**		    |       Est       	        |
 |**Tempo Attacco**		        |	~ 2.10h                 | **Tempo Discesa**		    | ~ 2.00h  (senza calate)              |
-|**Diff. Globale**              | F	            | **Num. Soste**            |		  8    	        |
+|**Diff. Globale**              | D	            | **Num. Soste**            |		  8    	        |
 |**Difficoltà**		            | 6a, A0     	        | **Roccia**		        |      Calcare		            |
 |**Chiodatura**		            |          ottima a fix        	        | **Data rip.**			    | Sab. 16/07/2022       |
 |**Giudizio personale**         |    6.0/10                 |                           |                       |
