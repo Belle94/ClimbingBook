@@ -8,7 +8,7 @@ via Claudia - Croda da Lago
 |**Prima ascensione** 		    |	   Mario Dibona Moro          | **Anno**                  |   2016                |
 |**Metri Climb**		        |	 ~ 200m	                | **Altitudine** 		    | ~ 2500mt          | 
 |**Tempo Climb**		        |   ~ 5h                   | **Esposizione**		    |       Est       	        |
-|**Tempo Attacco**		        |	~ 2.10h                 | **Tempo Discesa**		    | ~ 2.00h  (no calate)              |
+|**Tempo Attacco**		        |	~ 2.10h                 | **Tempo Discesa**		    | ~ 2.00h  (senza calate)              |
 |**Diff. Globale**              | F	            | **Num. Soste**            |		  8    	        |
 |**Difficoltà**		            | 6a, A0     	        | **Roccia**		        |      Calcare		            |
 |**Chiodatura**		            |          ottima a fix        	        | **Data rip.**			    | Sab. 16/07/2022       |
