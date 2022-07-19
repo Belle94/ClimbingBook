@@ -61,7 +61,7 @@ Prima via di Piiit! due secchielli lasciati cadere nel vuoto e clamorosamente be
 |                                |                           |
 |:-------------------------------|:--------------------------|
 | [La parete](https://live.staticflickr.com/65535/52225449537_875552e817_h.jpg)   |    [il rif Palmieri](https://live.staticflickr.com/65535/52225449537_875552e817_h.jpg) |   
-| ![La parete](https://live.staticflickr.com/65535/52226464056_db4bae79c5_k.jpg)   |   ![il rif Palmieri](https://live.staticflickr.com/65535/52226464056_db4bae79c5_k.jpg) |
+| ![La parete](https://live.staticflickr.com/65535/52225449537_875552e817_h.jpg)   |   ![il rif Palmieri](https://live.staticflickr.com/65535/52225449537_875552e817_h.jpg) |
 
 ### External links
 - https://cortina360.it/estate/arrampicata/arrampicata-croda-da-lago/
