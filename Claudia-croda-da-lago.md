@@ -56,5 +56,12 @@ Serve sicuramente un friend per la quarta sosta (~ 0.75), la via è tutta ben sp
 ### Considerazioni Generali
 Prima via di Piiit! due secchielli lasciati cadere nel vuoto e clamorosamente ben due secchielli ritrovati. 
 
+### Photos
+
+|                                |                           |
+|:-------------------------------|:--------------------------|
+| [La parete](https://www.flickr.com/photos/196076088@N05/shares/1XH6T70avv)   |    [il rif Palmieri](https://www.flickr.com/photos/196076088@N05/shares/6G95F01Ywe) |   
+| ![La parete](https://www.flickr.com/photos/196076088@N05/shares/1XH6T70avv)   |   ![il rif Palmieri](https://www.flickr.com/photos/196076088@N05/shares/6G95F01Ywe) |
+
 ### External links
 - https://cortina360.it/estate/arrampicata/arrampicata-croda-da-lago/
