@@ -39,3 +39,6 @@ Le Mie Ripetute
 36. Pilastro Stenghel, pian delle fugazze, Monte Cornetto, gruppo Sengio Alto. (with mr.Sergio Martini!)
 37. [Claudia](https://belle94.github.io/ClimbingBook/Claudia-croda-da-lago), Trapezio sinistro, Croda da lago, Belluno.
 38. [Fessura Dimai](https://www.sassbaloss.com/pagine/uscite/cinquetorri3/cinquetorri3.htm), torre grande, 5 torri, Belluno.
+39. Via Micheluzzi, piz ciavazes, Passo sella.
+40. via della fessura, orrido di fersto.
+41. Diedro Maestri, Piccolo Dain, Arco.
