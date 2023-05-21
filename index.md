@@ -43,3 +43,8 @@ Le Mie Ripetute
 39. Via Micheluzzi, piz ciavazes, Passo sella.
 40. via della fessura, orrido di fersto.
 41. Diedro Maestri, Piccolo Dain, Arco.
+42. Adieu Zidane, Verdon
+43. Rêve de fer, Fenrir, Verdon
+44. L'Ange en Décomposition, Fenrir, Verdon
+45. Serie limiéte, paroi du duc, Verdon
+
