@@ -6,3 +6,5 @@
 
 - passo san pellegrino, forca rossa 02/03/2024
 
+- passo valles, cima bocche 03/03/2024
+
