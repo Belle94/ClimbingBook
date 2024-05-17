@@ -47,4 +47,8 @@ Le Mie Ripetute
 43. Rêve de fer, Fenrir, Verdon
 44. L'Ange en Décomposition, Fenrir, Verdon
 45. Serie limiéte, paroi du duc, Verdon
+46. Direttissima Loss/Pilati, piccolo Dain, Sarche
+47. Bivi della soliudine, Gola della rossa, Serra San Quirico, Marche
+48. Sulle tracce di dario, San Paolo, Dro
+49. Via Sette Muri, San Paolo, Dro
 
