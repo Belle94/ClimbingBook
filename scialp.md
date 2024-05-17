@@ -1,10 +1,10 @@
 # uscite invernali 
 
-- val Venegia, cima valles 26/01/2024
+- cima valles, val Venegia, 26/01/2024
 
-- Misurina, forcella della neve 25/02/2024
+- forcella della neve, Misurina, 25/02/2024
 
-- passo san pellegrino, forca rossa 02/03/2024
+- forca rossa, passo san pellegrino, 02/03/2024
 
-- passo valles, cima bocche 03/03/2024
+- cima bocche, passo valles, 03/03/2024
 
