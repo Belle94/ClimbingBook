@@ -48,7 +48,10 @@ Le Mie Ripetute
 44. L'Ange en Décomposition, Fenrir, Verdon
 45. Serie limiéte, paroi du duc, Verdon
 46. Direttissima Loss/Pilati, piccolo Dain, Sarche
-47. Bivi della soliudine, Gola della rossa, Serra San Quirico, Marche
-48. Sulle tracce di dario, San Paolo, Dro
-49. Via Sette Muri, San Paolo, Dro
+47. Via sol minore, Biacesa, Ledro
+48. Bivi della soliudine, Gola della rossa, Serra San Quirico, Marche
+49. Sognando una bionda, Castel presina, Caprino VR
+50. Sulle tracce di dario, San Paolo, Dro
+51. Via Sette Muri, San Paolo, Dro
+52. via degli svizzeri, pietra di bismantova
 
