@@ -53,5 +53,7 @@ Le Mie Ripetute
 49. Sognando una bionda, Castel presina, Caprino VR
 50. Sulle tracce di dario, San Paolo, Dro
 51. Via Sette Muri, San Paolo, Dro
-52. via degli svizzeri, pietra di bismantova
+53. via degli svizzeri, pietra di bismantova
+54. Via centrale + uscita normale, Campanile di val montanaia.
+55. Via Leila (diedro nord), Seconda del Torre del Sella, passo sella.
 
