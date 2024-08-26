@@ -53,7 +53,12 @@ Le Mie Ripetute
 49. Sognando una bionda, Castel presina, Caprino VR
 50. Sulle tracce di dario, San Paolo, Dro
 51. Via Sette Muri, San Paolo, Dro
-53. via degli svizzeri, pietra di bismantova
+53. Via degli svizzeri, pietra di bismantova
 54. Via centrale + uscita normale, Campanile di val montanaia.
 55. Via Leila (diedro nord), Seconda del Torre del Sella, passo sella.
-
+56. Via Spigolo Castiglioni, Nord-Ovest, Presolana Occidentale.
+57. Spigolo piaz, torre delago, Vajolet.
+58. Via Voie du gardien, Val Veny, Courmayeur (AO)
+59. Via Ottoz – Hurzeler variante delle Guide, Aiguille Croux, Val Veny, Courmayeur (AO)
+60. Profumo Proibito, seconda punta centrale del triolet, Val Ferret (AO)
+61. Spigolo Grigio, Mulàz, Pale di san martino.
