@@ -56,9 +56,10 @@ Le Mie Ripetute
 53. Via degli svizzeri, pietra di bismantova
 54. Via centrale + uscita normale, Campanile di val montanaia.
 55. Via Leila (diedro nord), Seconda del Torre del Sella, passo sella.
-56. Via Spigolo Castiglioni, Nord-Ovest, Presolana Occidentale.
-57. Spigolo piaz, torre delago, Vajolet.
-58. Via Voie du gardien, Val Veny, Courmayeur (AO)
-59. Via Ottoz – Hurzeler variante delle Guide, Aiguille Croux, Val Veny, Courmayeur (AO)
-60. Profumo Proibito, seconda punta centrale del triolet, Val Ferret (AO)
-61. Spigolo Grigio, Mulàz, Pale di san martino.
+56. Via Normale, Dente del gigante, Monte Bianco.
+57. Via Spigolo Castiglioni, Nord-Ovest, Presolana Occidentale.
+58. Spigolo piaz, torre delago, Vajolet.
+59. Via Voie du gardien, Val Veny, Courmayeur (AO)
+60. Via Ottoz – Hurzeler variante delle Guide, Aiguille Croux, Val Veny, Courmayeur (AO)
+61. Profumo Proibito, seconda punta centrale del triolet, Val Ferret (AO)
+62. Spigolo Grigio, Mulàz, Pale di san martino.
